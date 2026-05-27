@@ -1,0 +1,11 @@
+{
+  "name": "gleam",
+  "description": "Connect Claude Code to Gleam: query coding-agent activity, telemetry, and audit data via the Gleam MCP server, with bundled Gleam workflow skills.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gleam",
+    "url": "https://gleamdev.com"
+  },
+  "homepage": "https://gleamdev.com",
+  "repository": "https://github.com/gleamdev/claude-plugins"
+}

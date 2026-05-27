@@ -1,0 +1,14 @@
+{
+  "name": "gleam",
+  "owner": {
+    "name": "Gleam",
+    "url": "https://gleamdev.com"
+  },
+  "plugins": [
+    {
+      "name": "gleam",
+      "source": "./plugins/gleam",
+      "description": "Gleam MCP server (query agent activity, telemetry, and audit data) plus Gleam workflow skills."
+    }
+  ]
+}
