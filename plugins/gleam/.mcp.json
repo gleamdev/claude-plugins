@@ -2,7 +2,7 @@
   "mcpServers": {
     "gleam": {
       "type": "http",
-      "url": "https://app.gleamdev.com/api/mcp",
+      "url": "${GLEAM_MCP_URL:-https://app.gleamdev.com/api/mcp}",
       "headers": {
         "Authorization": "Bearer ${GLEAM_API_KEY}"
       }

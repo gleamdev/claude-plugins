@@ -22,6 +22,12 @@ Set a Gleam API key (created in the Gleam web UI) before using the MCP server:
 export GLEAM_API_KEY=glm_...
 ```
 
+To point at a different Gleam instance, override the MCP server URL (defaults to `https://app.gleamdev.com/api/mcp`):
+
+```bash
+export GLEAM_MCP_URL=https://your-instance.example.com/api/mcp
+```
+
 ## Layout
 
 ```
